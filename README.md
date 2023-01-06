@@ -4,3 +4,10 @@
 - :orange_book: Interested in Cloud Native
 - ⚡ Python / Golang / C++.
 - :cat: CatKeeper
+
+<a href=#><img src="images/contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/qinguoyi/count.svg" />
+</p>
