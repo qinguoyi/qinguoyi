@@ -5,9 +5,7 @@
 - ⚡ Python / Golang / C++.
 - :cat: CatKeeper
 
-<a href=#><img src="images/contributions.svg"></a>
-
-<p align="center"> 
+<p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/qinguoyi/count.svg" />
 </p>
